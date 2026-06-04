@@ -36,7 +36,7 @@ The dataset contains coffee sales transactions including:
 
 ### Sales Performance Dashboard
 
-![Sales Dashboard]()
+![Sales Dashboard](https://github.com/Nitin3020/Coffee-Global-Performance-Dashboards/blob/main/coffee%20shop%20project.png)
 
 ### Customer Insights Dashboard
 
