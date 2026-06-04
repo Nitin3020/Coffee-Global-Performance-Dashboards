@@ -1,7 +1,7 @@
 # ☕ Coffee Global Performance Dashboard
 
 <p align="center">
-  <img src="" alt="Coffee Dashboard Banner" width="100%">
+  <img src="https://github.com/Nitin3020/Coffee-Global-Performance-Dashboards/blob/main/coffee%20shop%20project.png" alt="Coffee Dashboard Banner" width="100%">
 </p>
 
 <h3 align="center">📊 Transforming Coffee Sales Data into Actionable Business Insights</h3>
